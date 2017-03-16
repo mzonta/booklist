@@ -1,6 +1,6 @@
 # Booklist
 
-This is a collection of books I have read or I am reading, sometimes without any goal in mind, but always to enlarge my point of view.
+This is a collection of books I have read or I am reading, sometimes without any goal in mind, but always to enlarge my point of view on the automation world.
 
 ## 2016
 
