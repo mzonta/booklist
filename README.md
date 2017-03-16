@@ -6,4 +6,6 @@ This is a collection of books I have read or I am reading, sometimes without any
 
 [Distributed Control Applications: Guidelines, Design Patterns, and Application Examples with the IEC 61499] https://github.com/mzonta/booklist/wiki/Distributed-Control-Applications:-Guidelines,-Design-Patterns,-and-Application-Examples-with-the-IEC-61499
 
+[Atom][atom-site]
 
+[atom-site]: https://atom.io/
