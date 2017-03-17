@@ -19,3 +19,7 @@ This is a collection of books I have read or I am reading, sometimes without any
 * [TSN – Time Sensitive Networking][tsn-belden]
 
 [tsn-belden]: https://github.com/mzonta/booklist/wiki/TSN-%E2%80%93-Time-Sensitive-Networking
+
+* [IoT based integration of IEC 61131 industrial automation systems: The case of UML4IoT][uml4iot]
+
+[uml4iot]: https://github.com/mzonta/booklist/wiki/IoT-based-integration-of-IEC-61131-industrial-automation-systems:-The-case-of-UML4IoT
