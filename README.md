@@ -11,3 +11,7 @@ This is a collection of books I have read or I am reading, sometimes without any
 * [IEC 61499 vs. 61131: A Comparison Based on Misperceptions][iec61499-61131]
 
 [iec61499-61131]: https://github.com/mzonta/booklist/wiki/IEC-61499-vs.-61131:-A-Comparison-Based-on-Misperceptions
+
+[Module Based Production in the Process Industry – Effects on Automation in the “Industrie 4.0” Environment][zvei-ne148]
+
+[zvei-ne148]: https://github.com/mzonta/booklist/wiki/Module-Based-Production-in-the-Process-Industry-%E2%80%93-Effects-on-Automation-in-the-%E2%80%9CIndustrie-4.0%E2%80%9D-Environment
